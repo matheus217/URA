@@ -1,3 +1,0 @@
-
-
-codigo segui_faixa
